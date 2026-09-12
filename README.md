@@ -1,6 +1,3 @@
-# Hospital-Emergency-Room-Dashboard
-Interactive Hospital Emergency Room Dashboard created using Excel for patient and emergency department analysis.
-
 # Hospital Emergency Room Dashboard
 
 An interactive Hospital Emergency Room Dashboard created using Microsoft Excel to analyze patient and emergency department data.
